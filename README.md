@@ -12,7 +12,7 @@ API documentation  Postman Collection
 
 Project Setup:
 Step 1: Clone the Repository
-git clone https://github.com/sushantkrjha/task-management-api.git
+git clone https://github.com/sushantkrjha/task-management
 cd task-management-api
 
 Step 2: Create a Virtual Environment and Activate It
